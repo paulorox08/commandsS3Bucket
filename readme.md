@@ -9,3 +9,6 @@ Note: there are some prerequisites the user needs before running the script and 
 - Note:  potential issues with mismatch of AWS profiles when running script from another users computer
 	
 - Note: issues with creating a duplicate S3 bucket 
+
+If permission denied, run:
+    chmod u+x file_name.sh

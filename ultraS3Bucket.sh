@@ -2,12 +2,12 @@
 
 echo "Please make sure AWS CLI has been installed and configured properly."
 
-if ! grep aws_access_key_id ~/.aws/config; then
-   if ! grep aws_access_key_id ~/.aws/credentials; then
-   echo "AWS CLI not configured properly."
-   exit 1
-   fi
-fi
+# if ! grep aws_access_key_id ~/.aws/config; then
+#    if ! grep aws_access_key_id ~/.aws/credentials; then
+#    echo "AWS CLI not configured properly."
+#    exit 1   
+#    fi
+# fi
 
 function makeBucket()
    {

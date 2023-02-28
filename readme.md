@@ -15,13 +15,13 @@
 If permission denied, run:
     chmod u+x ultraS3Bucket.sh
 
-Creating a bucket:
+<h4>Creating a bucket:</h4>
 
 - Press 1 to create a bucket
 
 - **NOTE**: Ensure the bucket you want to add has a unique name
 
-Adding files into a bucket:
+<h4>Adding files into a bucket:</h4>
 
 - Press 2 to add a file into a bucket
 
@@ -31,7 +31,7 @@ Adding files into a bucket:
 
 - This only lets you add one file at a time
 
-Removing files from a bucket:
+<h4>Removing files from a bucket:</h4>
 
 - Press 3 to remove a file from a bucket
 
@@ -39,7 +39,7 @@ Removing files from a bucket:
 
 - Only lets you remove one file at a time
 
-Deleting a bucket:
+<h4>Deleting a bucket:</h4>
 
 - Press 4 to delete a bucket
 
